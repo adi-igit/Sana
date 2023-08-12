@@ -11,7 +11,7 @@ the *web-application*.
 To get started simply run:
 ```npm install``` to install all necessary packages
 
-After that run ```npm run dev``` to start the development and go to ```http:localhost:3000```
+After that run ```npm run dev``` to start the development and go to ```http://localhost:3000```
 
 ## Good luck!
 
