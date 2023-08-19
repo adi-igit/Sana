@@ -4,7 +4,7 @@
 
 Greetings! Allow me to share with you about Sana, a ground-breaking initiative that utilizes the Next.js framework, providing a cutting-edge virtual platform for ecommerce.
 
-## 🛍️ Features
+## Features
 
 - **Wellness Products**: Explore a range of thoughtfully selected products, from holistic supplements to eco-friendly accessories.
 
@@ -16,7 +16,7 @@ Greetings! Allow me to share with you about Sana, a ground-breaking initiative t
 
 - **User Profiles**: Create an account to manage your orders, save your favorite products, and track your shopping history.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -46,13 +46,13 @@ Greetings! Allow me to share with you about Sana, a ground-breaking initiative t
 
 6. Open your browser and visit [**http://localhost:3000**](http://localhost:3000) to experience the power of Sana!
 
-## 🛒 Technologies Used
+## Technologies Used
 
 * **Next.js**: A versatile React framework for crafting server-rendered applications with dynamic UIs.
 * **Tailwind CSS**: A utility-first CSS framework for creating modern and responsive designs.
 * **MongoDB**: A NoSQL database for secure and efficient storage of product and user data.
 
-## 🛍️ Contributing
+## Feedback and Contributions
 Join the Sana eCommerce experience and contribute to a holistic shopping journey! Here's how you can get involved:
 
 * [**Open an issue**](https://github.com/adi-igit/Sana/issues) to share suggestions, report issues, or propose new features.
