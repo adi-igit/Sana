@@ -58,10 +58,10 @@ Join the Sana eCommerce experience and contribute to a holistic shopping journey
 * [**Open an issue**](https://github.com/adi-igit/Sana/issues) to share suggestions, report issues, or propose new features.
 * Fork the repository and submit a pull request to contribute your enhancements to the world of mindful eCommerce.
 
-## 📜 License
+## License
 
 Riseup is released under the [**MIT License**](https://github.com/adi-igit/Sana/blob/main/LICENSE). Get ready to rise above challenges and shape your path to success!
 
 Experience mindful shopping with Sana eCommerce, a dynamic Next.js application. Discover products that nurture your well-being, enrich your life, and support your journey towards holistic living.
 
-Happy shopping! 🌿🛍️
+Happy shopping!
